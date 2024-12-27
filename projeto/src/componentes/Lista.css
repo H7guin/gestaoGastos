@@ -1,0 +1,32 @@
+.lista {
+    position: relative;
+    margin: auto;
+    width: calc(40% + 100px);
+    height: 80vh;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px;
+    padding: 10px;
+    color: #b51212;
+}
+
+.listatitulo {
+    padding: 20px 20px;
+    border-bottom: thin solid #ff0000;
+}
+
+.lista p{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.lista ul{
+    margin-left: 10px;
+    margin-top: 15px;
+    list-style:inside;
+}
+
+li{
+    color: rgb(0, 18, 133);
+    margin-bottom: 10px;
+}
